@@ -1,0 +1,9 @@
+# Logs and modules
+logs/
+*.log
+dist/
+
+#hide files
+node_modules/
+.env
+temp/
